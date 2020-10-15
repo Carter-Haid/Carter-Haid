@@ -4,7 +4,7 @@
 
 Cyber-Security Student | Wannabee Red Teamer  :computer:
 
-University of Southern Maine Student :open_book:
+University of Southern Maine Senior :open_book:
 
 ## About me 
 - :earth_americas: I'm from Providence - Rhode Island
