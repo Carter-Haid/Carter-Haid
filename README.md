@@ -7,7 +7,7 @@ Cyber-Security Student | Wannabee Red Teamer  :computer:
 University of Southern Maine Senior :open_book:
 
 ## About me 
-- :earth_americas: I'm from Providence - Rhode Island
+- :earth_americas: I'm from Providence, Rhode Island
 -  :camping: Lover of All Things Outdoors ([AllTrails](https://www.alltrails.com/members/carter-haid-1?ref=header))
 - :penguin: Linux Enthusiast - Ubuntu (Stripped Down)
 - :mortar_board: Ask me About USM's Russell Scholars Program
