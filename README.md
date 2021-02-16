@@ -10,7 +10,7 @@ University of Southern Maine Senior :open_book:
 - :earth_americas: I'm from Providence, Rhode Island
 -  :camping: Lover of All Things Outdoors ([AllTrails](https://www.alltrails.com/members/carter-haid-1?ref=header))
 - :penguin: Linux Enthusiast - Ubuntu (Stripped Down)
-- :mortar_board: Ask me About USM's Russell Scholars Program
+- :mortar_board: Ask me About USM's Russell Scholar Program
 
 ## Connect :mailbox_with_no_mail:
 [![Twitter URL](https://img.shields.io/twitter/url?color=%23fb3958&label=Website&logo=&logoWidth=40&logoColor=%23fb3958&style=flat-square&url=https%3A%2F%2Fwww.instagram.com%2Falejorc_)](https://www.carterhaid.com/)
