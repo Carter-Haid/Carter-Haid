@@ -2,7 +2,7 @@
 
 # Hi, I'm Carter 
 
-Cyber-Security Student | Wannabee Red Teamer  :computer:
+Cyber-Security Student | Security @ Tinder  :computer:
 
 University of Southern Maine Senior :open_book:
 
