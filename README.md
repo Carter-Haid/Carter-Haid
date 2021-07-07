@@ -2,7 +2,7 @@
 
 # Hi, I'm Carter 
 
-Security Student | Security @ Tinder  :computer:
+Security Intern @ Tinder  :computer:
 
 University of Southern Maine Senior :open_book:
 
