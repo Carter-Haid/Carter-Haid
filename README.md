@@ -7,8 +7,8 @@ Security Intern @ Tinder  :computer:
 University of Southern Maine :open_book:
 
 ## About me 
-- :earth_americas: I'm from Providence, Rhode Island
--  :camping: Lover of All Things Outdoors ([AllTrails](https://www.alltrails.com/members/carter-haid-1?ref=header))
+- :earth_americas: I'm from Portland, Maine
+- :camping: Lover of All Things Outdoors ([AllTrails](https://www.alltrails.com/members/carter-haid-1?ref=header))
 - :penguin: Linux Enthusiast - Ubuntu (Stripped Down)
 - :mortar_board: Ask me About USM's Russell Scholar Program
 
