@@ -1,7 +1,6 @@
 <img align="right" width="400" height="400" src="https://github.com/Carter-Haid/Carter-Haid/blob/main/logo.jpg?raw=true"/>
 
 # Hi, I'm Carter 
-
 ## About me 
 - :earth_americas: I'm from Portland, Maine
 - :camping: Lover of All Things Outdoors ([AllTrails](https://www.alltrails.com/members/carter-haid-1?ref=header))
