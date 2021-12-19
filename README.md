@@ -2,10 +2,6 @@
 
 # Hi, I'm Carter 
 
-Security Intern @ Tinder  :computer:
-
-University of Southern Maine :open_book:
-
 ## About me 
 - :earth_americas: I'm from Portland, Maine
 - :camping: Lover of All Things Outdoors ([AllTrails](https://www.alltrails.com/members/carter-haid-1?ref=header))
